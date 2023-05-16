@@ -6,7 +6,7 @@ This is the repository of ICSE 2023 paper "Did We Miss Something Important? Stud
 
 For the meaning of the annotations, please refer to our paper or the following table:
 
-| Annotation  | Category | Description |
+| Annotation | Category | Description |
 | ------------- | ------------- | ------------- |
 | Object ID  | OID  | Identification information of an object  |
 | Location Indicator  | LOI  | Location information of an object   |
