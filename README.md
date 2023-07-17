@@ -10,7 +10,7 @@ For the meaning of the annotations, please refer to our paper or the following t
 | ------------- | ------------- | ------------- |
 | Object ID  | OID  | Identification information of an object  |
 | Location Indicator  | LOI  | Location information of an object   |
-| Object Name  | OBA  | Name of an object  |
+| Object Name  | OBN  | Name of an object  |
 | Type Indicator  | TID  | Type information of an object or an action   |
 | Switch Indicator  | SID  | Status of a switch variable   |
 | Time or Duration of an Action  | TDA  | Time or duration of an action   |
